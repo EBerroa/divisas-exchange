@@ -20,7 +20,23 @@ Divisas Exchange es una aplicación de consola desarrollada en Java que permite 
 ## Uso ⏯️
 
 1. Sigue las instrucciones en la consola para seleccionar las monedas de origen y destino, y para ingresar el monto que deseas convertir.
-2. La aplicación mostrará el resultado de la conversión.
+
+![image](https://github.com/EBerroa/divisas-exchange/assets/138054878/53b48fca-c7c9-40d9-9d16-3370ca25d4a5)
+
+
+
+3. La aplicación mostrará el resultado de la conversión.
+
+
+![image](https://github.com/EBerroa/divisas-exchange/assets/138054878/1ec72756-8806-45a1-861b-7f4041890f24)
+
+
+
+3. Tendrás las opciones de imprimir o no la información en formato json
+
+
+![image](https://github.com/EBerroa/divisas-exchange/assets/138054878/581d0d47-669e-4f14-ae57-b2eccdc4df47)
+
 
 ## Licencia ⚜️
 
